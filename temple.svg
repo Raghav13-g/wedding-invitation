@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 210" width="180" height="210" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<rect x="38" y="168" width="104" height="30" stroke="#B89A61" stroke-width="2"/>
+<path d="M76,198 V182 a14,14 0 0 1 28,0 V198" stroke="#743A43" stroke-width="2"/>
+<line x1="26" y1="198" x2="154" y2="198" stroke="#B89A61" stroke-width="2.5"/>
+<path d="M36.0,168 L43.0,146 H137.0 L144.0,168 Z" stroke="#B89A61" stroke-width="2"/>
+<line x1="32.0" y1="168" x2="148.0" y2="168" stroke="#B89A61" stroke-width="2.4"/>
+<path d="M50.75,164 V157 a4,4 0 0 1 8,0 V164" stroke="#743A43" stroke-width="1.6"/>
+<path d="M74.25,164 V157 a4,4 0 0 1 8,0 V164" stroke="#743A43" stroke-width="1.6"/>
+<path d="M97.75,164 V157 a4,4 0 0 1 8,0 V164" stroke="#743A43" stroke-width="1.6"/>
+<path d="M121.25,164 V157 a4,4 0 0 1 8,0 V164" stroke="#743A43" stroke-width="1.6"/>
+<path d="M45.0,142 L52.0,120 H128.0 L135.0,142 Z" stroke="#B89A61" stroke-width="2"/>
+<line x1="41.0" y1="142" x2="139.0" y2="142" stroke="#B89A61" stroke-width="2.4"/>
+<path d="M60.66666666666667,138 V131 a4,4 0 0 1 8,0 V138" stroke="#743A43" stroke-width="1.6"/>
+<path d="M86.0,138 V131 a4,4 0 0 1 8,0 V138" stroke="#743A43" stroke-width="1.6"/>
+<path d="M111.33333333333333,138 V131 a4,4 0 0 1 8,0 V138" stroke="#743A43" stroke-width="1.6"/>
+<path d="M53.0,118 L60.0,96 H120.0 L127.0,118 Z" stroke="#B89A61" stroke-width="2"/>
+<line x1="49.0" y1="118" x2="131.0" y2="118" stroke="#B89A61" stroke-width="2.4"/>
+<path d="M71.0,114 V107 a4,4 0 0 1 8,0 V114" stroke="#743A43" stroke-width="1.6"/>
+<path d="M101.0,114 V107 a4,4 0 0 1 8,0 V114" stroke="#743A43" stroke-width="1.6"/>
+<path d="M60.0,96 L67.0,74 H113.0 L120.0,96 Z" stroke="#B89A61" stroke-width="2"/>
+<line x1="56.0" y1="96" x2="124.0" y2="96" stroke="#B89A61" stroke-width="2.4"/>
+<path d="M74.5,92 V85 a4,4 0 0 1 8,0 V92" stroke="#743A43" stroke-width="1.6"/>
+<path d="M97.5,92 V85 a4,4 0 0 1 8,0 V92" stroke="#743A43" stroke-width="1.6"/>
+<path d="M67.0,76 L74.0,54 H106.0 L113.0,76 Z" stroke="#B89A61" stroke-width="2"/>
+<line x1="63.0" y1="76" x2="117.0" y2="76" stroke="#B89A61" stroke-width="2.4"/>
+<path d="M86.0,72 V65 a4,4 0 0 1 8,0 V72" stroke="#743A43" stroke-width="1.6"/>
+<path d="M72,56 L78,40 H102 L108,56 Z" stroke="#B89A61" stroke-width="2"/>
+<ellipse cx="90" cy="34" rx="6" ry="4.800000000000001" stroke="#B89A61" stroke-width="2"/>
+<ellipse cx="90" cy="22" rx="5" ry="4.0" stroke="#B89A61" stroke-width="2"/>
+<ellipse cx="90" cy="12" rx="4" ry="3.2" stroke="#B89A61" stroke-width="2"/>
+<line x1="90" y1="8" x2="90" y2="2" stroke="#743A43" stroke-width="2"/>
+</svg>
